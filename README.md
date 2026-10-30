@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, ben Aliagha 👋 
+**Frontend Developer** olarak modern, kullanıcı dostu ve estetik web arayüzleri geliştiriyorum. Detaylara önem veriyor, temiz kod yazmayı seviyorum.
 
-<!--
-**Aliagha-tech/Aliagha-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Şu anda **Portfolio, Note-App ve Brave-Cafe** projelerim üzerinde geliştirme yapıyorum.
+- 💬 Frontend dünyası, UI/UX tasarımı ve web teknolojileri hakkında konuşmak için bana ulaşabilirsin.
+- 📫 E-posta: allahverdiyevaliagha@gmail.com
+- 🌐 Web Sitem: [aliaghaallahverdiyev.netlify.app](https://aliaghaallahverdiyev.netlify.app)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Kullandığım Teknolojiler & Araçlar
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,vscode" />
+</p>
